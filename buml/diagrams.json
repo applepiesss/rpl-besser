@@ -1,0 +1,50 @@
+{
+  "project": {
+    "id": "project_1795510781344_65ze3v4ds",
+    "type": "Project",
+    "schemaVersion": 6,
+    "name": "KebabDEL",
+    "description": "",
+    "owner": "",
+    "createdAt": "2026-11-24T08:59:41.344Z",
+    "currentDiagramType": "ClassDiagram",
+    "currentDiagramIndices": {
+      "ClassDiagram": 0,
+      "ObjectDiagram": 0,
+      "StateMachineDiagram": 0,
+      "AgentDiagram": 0,
+      "ComponentDiagram": 0,
+      "DeploymentDiagram": 0,
+      "UserDiagram": 0,
+      "GUINoCodeDiagram": 0,
+      "QuantumCircuitDiagram": 0,
+      "NNDiagram": 0,
+      "BPMN": 0,
+      "KnowledgeGraphDiagram": 0
+    },
+    "diagrams": {},
+    "settings": {
+      "defaultDiagramType": "ClassDiagram",
+      "autoSave": true,
+      "collaborationEnabled": false,
+      "perspectives": {
+        "ClassDiagram": true,
+        "ObjectDiagram": true,
+        "StateMachineDiagram": true,
+        "AgentDiagram": true,
+        "UserDiagram": true,
+        "GUINoCodeDiagram": true,
+        "QuantumCircuitDiagram": true,
+        "NNDiagram": true,
+        "BPMN": true,
+        "ComponentDiagram": true,
+        "DeploymentDiagram": true,
+        "KnowledgeGraphDiagram": true
+      }
+    },
+    "attribution": {}
+  },
+  "exportedAt": "2026-11-24T14:46:52.720Z",
+  "version": "2.0.0",
+  "editorVersion": "8.9.4"
+}
