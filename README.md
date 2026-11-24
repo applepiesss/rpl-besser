@@ -2,6 +2,10 @@
 
 Created with [BESSER](https://github.com/BESSER-PEARL/BESSER) on 2026-11-24.
 
+## Class Diagram
+
+![KebabDEL class diagram](public/KebabDEL.svg)
+
 ## Files
 
 - `buml/diagrams.json`: the model. Open the repository from the GitHub panel of the
