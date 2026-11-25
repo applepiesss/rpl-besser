@@ -6,6 +6,10 @@ Created with [BESSER](https://github.com/BESSER-PEARL/BESSER) on 2026-11-24.
 
 ![KebabDEL class diagram](public/KebabDEL.svg)
 
+## Class Diagram - Besser
+
+![KebabDEL class diagram with Besser](public/KebabDEL-Besser.png)
+
 ## Files
 
 - `buml/diagrams.json`: the model. Open the repository from the GitHub panel of the
@@ -58,7 +62,13 @@ Created with [BESSER](https://github.com/BESSER-PEARL/BESSER) on 2026-11-24.
 7. Open `http://127.0.0.1:8000/admin/` and log in with the admin account.
    Customers, orders, menus, outlets and the other entities can be managed from there.
 
-Press `Ctrl + C` to stop the server.
+   Press `Ctrl + C` to stop the server.
+
+## Running Application
+
+   ![KebabDEL admin login](public/admin-login.png)
+
+   ![KebabDEL admin page](public/admin-page.png)
 
 ## Learn more
 
